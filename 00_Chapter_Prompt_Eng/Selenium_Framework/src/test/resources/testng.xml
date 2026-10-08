@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="VwoAndSalesforceLoginSuite" parallel="false">
+    <test name="LoginTests">
+        <classes>
+            <class name="com.salesforce.tests.LoginPageValidTest"/>
+            <class name="com.salesforce.tests.LoginPageInvalidTest"/>
+            <class name="com.vwo.tests.VwoLoginTest"/>
+        </classes>
+    </test>
+</suite>

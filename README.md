@@ -1,5 +1,7 @@
 # LearnJSTSPlaywright4x
 
+Learning materials for JavaScript fundamentals, prompt engineering, and test automation. The repository is organized into numbered chapters, with a sample Selenium Java/TestNG framework in the prompt engineering chapter.
+
 ## Repository Structure
 
 ```text
@@ -50,10 +52,19 @@ LearnJSTSPlaywright4x/
 │   ├── 07_Numbers_Part2.js
 │   ├── 08_Special_Numeric_Valuejs
 │   └── 09_Undefined.js
-└── 04_Chapter_JS_Operators/
+├── 04_Chapter_JS_Operators/
     ├── 01_Assignment_Operator.js
     ├── 02_Arithmetic_Operator.js
     ├── 03_Comparison_Operator.js
     ├── 04_Logical_Operator.js
-    └── 05_Confusing_Comparisions
+    ├── 05_Confusing_Comparisions
+    ├── 06_Question.js
+    ├── 07_String.js
+    ├── 08_Ternary_Operator.js
+    ├── 09_Ternary_Op_Interview_Ques.js
+    └── 10_TypeOf.js
+└── 05_Chapter_ Incre_Decre_Oper.js/
+    ├── 01_Increment_Operator.js
+    ├── 02_Decrement_Operator.js
+    └── 03_Nullish.js
 ```

@@ -1,0 +1,23 @@
+{
+  "name": "learnjstsplaywright4x",
+  "version": "1.0.0",
+  "description": "Learning materials for JavaScript fundamentals, prompt engineering, and test automation. The repository is organized into numbered chapters, with a sample Selenium Java/TestNG framework in the prompt engineering chapter.",
+  "homepage": "https://github.com/ZeebaAnjumHammagi/LearnJSTSPlaywright4x#readme",
+  "bugs": {
+    "url": "https://github.com/ZeebaAnjumHammagi/LearnJSTSPlaywright4x/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeebaAnjumHammagi/LearnJSTSPlaywright4x.git"
+  },
+  "license": "ISC",
+  "author": "Zeeba A H",
+  "type": "commonjs",
+  "main": "05_Chapter_ Incre_Decre_Oper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
